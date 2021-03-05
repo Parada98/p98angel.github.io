@@ -78,7 +78,7 @@ footer{
     padding: 10px;
 }
 
-@media (max-width:1200px){
+@media (max-width:800px){
     .main{
         flex-flow: column wrap;
     }
@@ -92,14 +92,5 @@ footer{
 
     .section{
         width: 70%;
-    }
-}
-@media (max-width:800px){
-    .main{
-        flex-flow: column wrap;
-    }
-    .menu{
-        width: 100%;
-        margin: auto;
     }
 }
